@@ -635,7 +635,7 @@ class Tindakanberobat extends CI_Controller
         // setting jenis font yang akan digunakan
         $pdf->SetFont('Arial', 'B', 16);
 
-        $pdf->Image('http://localhost/puskesmas/assets/foto_profil/logo-rs.jpg', 4, 5, 30);
+        $pdf->Image('http://localhost/xxx/assets/foto_profil/logo-rs.jpg', 4, 5, 30);
         //$pdf->Image('', a)
         // mencetak string 
         $pdf->Cell(190, 7, 'PUSKESMAS WADAS', 0, 1, 'C');

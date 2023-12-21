@@ -291,14 +291,12 @@ INSERT INTO `tbl_menu` (`id_menu`, `title`, `url`, `icon`, `is_main_menu`, `is_a
 (36, 'DATA TINDAKAN', 'tindakan', 'fa fa-flask', 0, 'y'),
 (37, 'STOK OBAT', 'stokobat', 'fa fa-bed', 40, 'y'),
 (38, 'PENGADAAN OBAT', 'pengadaanobat', 'fa fa-bed', 40, 'y'),
-(39, 'PENGELUARAN OBAT', 'pengeluaranobat', 'fa fa-calendar', 40, 'y'),
 (40, 'DATA OBAT', 'dataobat', 'fa fa-card', 0, 'y'),
 (41, 'DATA SUPPLIER', 'supplier', 'fa fa-bed', 0, 'y'),
 (42, 'DATA OPERASI', 'operasi', 'fa fa-bed', 44, 'y'),
 (43, 'Penanganan Operasi', 'penangananoperasi', 'fa fa-card', 44, 'y'),
 (44, 'DATA TIND. OPERASI', '#', 'fa fa-bed', 0, 'y'),
 (46, 'DATA OBAT-OBATAN', 'dataobat', 'fa fa-user', 40, 'y'),
-(48, 'DATA POLI KIA', 'polikia', 'fa fa-graduation-cap', 0, 'y'),
 (49, 'DATA PERBAIKAN GIZI', 'perbaikangizi', 'fa fa-user', 0, 'y'),
 (50, 'DATA TINDAKAN BEROBAT', 'tindakanberobat', 'fa fa-graduation-cap', 0, 'y');
 
